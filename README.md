@@ -20,3 +20,4 @@ Hi! I am Pedro Hasler, a Backend Developer. I build software projects and develo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrofhasler&icon=0&color=0)](https://visitcount.itsvg.in)
+
